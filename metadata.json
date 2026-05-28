@@ -1,0 +1,6 @@
+{
+  "name": "Gia Lai TV",
+  "description": "A high-fidelity live stream player for Gia Lai TV featuring real-time HLS broadcasting and interactive daily TV schedule parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
